@@ -1,11 +1,6 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-guid: ddb7876f337b8a24c9037b74a0057931
-timeCreated: 1517158490
-=======
-guid: 2affce4b1b0a21e4dbea27ff1d83e624
-timeCreated: 1517195306
->>>>>>> Robbie
+guid: bc5ec9106e2f9804fa673ff6b8c65299
+timeCreated: 1517191308
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName: {}
