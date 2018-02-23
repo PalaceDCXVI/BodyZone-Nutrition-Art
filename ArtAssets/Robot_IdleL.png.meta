@@ -1,13 +1,15 @@
 fileFormatVersion: 2
-guid: 04d4845c389565440badf616f9cb9e9a
-timeCreated: 1519420182
+guid: 2f899a4b8933e6f4383c8a17e741a914
+timeCreated: 1519407576
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: LogBaseSquares_0
-    21300002: LogBaseSquares_1
-    21300004: LogBaseSquares_2
-    21300006: LogBaseSquares_3
+    21300000: Robot_IdleL_0
+    21300002: Robot_IdleL_1
+    21300004: Robot_IdleL_2
+    21300006: Robot_IdleL_3
+    21300008: Robot_IdleL_4
+    21300010: Robot_IdleL_5
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -104,55 +106,83 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: LogBaseSquares_1
+      name: Robot_IdleL_0
       rect:
         serializedVersion: 2
-        x: 281
-        y: 320
-        width: 281
-        height: 320
+        x: 0
+        y: 1024
+        width: 1024
+        height: 1024
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: LogBaseSquares_2
+      name: Robot_IdleL_1
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_IdleL_2
+      rect:
+        serializedVersion: 2
+        x: 2048
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_IdleL_3
+      rect:
+        serializedVersion: 2
+        x: 3072
+        y: 1024
+        width: 1024
+        height: 1024
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Robot_IdleL_4
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 281
-        height: 320
+        width: 1024
+        height: 1024
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: LogBaseSquares_3
+      name: Robot_IdleL_5
       rect:
         serializedVersion: 2
-        x: 281
+        x: 1024
         y: 0
-        width: 281
-        height: 320
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: LogBaseSquares_0
-      rect:
-        serializedVersion: 2
-        x: 17
-        y: 384
-        width: 211
-        height: 211
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
